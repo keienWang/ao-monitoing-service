@@ -1,0 +1,26 @@
+[
+  {
+    "process": "pNSXgR1gIp6zzoXZv4mfSLQfuWVzvPsLZHg8-oi_DZo",
+    "tags": [
+      {
+        "name": "Action",
+        "value": "Get-Dashboard"
+      }
+    ],
+    "data": "",
+    "interval": 300000,
+    "alertEmail": "885599342@qq.com",
+    "conditions": {
+      "granted_reward": {
+        "operator": ">",
+        "value": 0
+      },
+      "participants": {
+        "operator": ">",
+        "value": 0
+      }
+    },
+    "granted_reward": 157000,
+    "participants": 2136
+  }
+]
